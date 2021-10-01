@@ -73,7 +73,9 @@ Here are some ideas to get you started:
 
 <p align="left"> 
     <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a> 
-    <a href="https://atom.io/"> <img src="https://img-premium.flaticon.com/png/512/3074/premium/3074119.png?token=exp=1626555999~hmac=2a1e95b7621c0c776e6670eedc9de410" alt="express" width="44" height="44"/ > </a>
+
+  https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-library.com%2Ficon%2Fatom-icon-0.html&psig=AOvVaw2MyumgVSxeh3oyQUKAcAiJ&ust=1633167194909000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjK3L71qPMCFQAAAAAdAAAAABAK
+  
     <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="44"/> </a> 
   <a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true" target="_blank"> <img src="https://miro.medium.com/max/1042/1*L2u_koKpa1lcjvB8DEDHsg.jpeg" alt="express" width="44" height="44"/> </a> 
    <a href="https://www.codeblocks.org/" target="_blank"> <img src="https://1.bp.blogspot.com/-h9D36wzWc1E/WRHtrvRXlyI/AAAAAAAABPI/3MGZ1bpRPTYYxFWOkV-QwsXzY9klH-84gCLcB/s400/code%2Bblock%2Blogo.jpg" alt="express" width="43" height="40" /> </a> 
