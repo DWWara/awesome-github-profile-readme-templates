@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 <p align="left"> 
     <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG4nmLnUDqDJMNYnvoIw2LrMP67vPbDNngRztSxwDftPQ7Hjk6gtHYIOwjQuCU0CILeT8&usqp=CAU" alt="express" width="43" height="40" /> </a> 
-    <a href="https://atom.io/"> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F51%2F4a%2F27%2F514a27b71a8baa1f1713fd1c551439b4.png&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F187040190748654779%2F&tbnid=0ylz0L5sWL5HKM&vet=12ahUKEwiHmK6F9KjzAhXHsUsFHYgrDqoQMygLegUIARC5AQ..i&docid=kLLIQZjcXHqdVM&w=800&h=600&itg=1&q=atom.io%20icon&ved=2ahUKEwiHmK6F9KjzAhXHsUsFHYgrDqoQMygLegUIARC5AQ token=exp=1626555999~hmac=2a1e95b7621c0c776e6670eedc9de410" alt="express" width="44" height="44"/ > </a>
+ 
     <a href="https://jupyter.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTQfO8XdRaElU-oiMX4jJFWjNO56ihBj8vLWl-8tZR0xFr4LL4nfzfXWLVCFeOjsGAZF4&usqp=CAU" alt="express" width="44" height="44"/> </a> 
   <a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true" target="_blank"> <img src="https://miro.medium.com/max/1042/1*L2u_koKpa1lcjvB8DEDHsg.jpeg" alt="express" width="44" height="44"/> </a> 
    <a href="https://www.codeblocks.org/" target="_blank"> <img src="https://1.bp.blogspot.com/-h9D36wzWc1E/WRHtrvRXlyI/AAAAAAAABPI/3MGZ1bpRPTYYxFWOkV-QwsXzY9klH-84gCLcB/s400/code%2Bblock%2Blogo.jpg" alt="express" width="43" height="40" /> </a> 
